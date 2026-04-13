@@ -143,7 +143,7 @@ This project is fully **simulated in Proteus**, making it ideal for learning and
 ---
 
 ## 👨‍💻 Author
-**Barika Naveen**  
+**Repalle Bhanu Prakash**  
 🎓 EEE Student | Embedded Systems Enthusiast  
 💡 Interested in ARM, Embedded C & IoT  
 
